@@ -3,7 +3,6 @@
 .card{
   height: 280px;
   max-width: 350px;
-  margin: 0 20px;
   background: white;
   transition: 800ms;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
