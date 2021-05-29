@@ -1,0 +1,11 @@
+#svg_Width {height: 100%;}
+.mapLink:hover path {fill: rgb(55, 133, 200);}
+  .legend1 {width: 50px; height: 20px; background: #e8e2d6; display: inline-block; margin-right: 10px;}
+  .legend2 {width: 50px; height: 20px; background: #a99265; display: inline-block; margin-right: 10px;}
+  .legend3 {width: 50px; height: 20px; background: #8c674e; display: inline-block; margin-right: 10px;}
+  .legend4 {width: 50px; height: 20px; background: #712000; display: inline-block; margin-right: 10px;}
+  .legend5 {width: 50px; height: 20px; background: #4a1500; display: inline-block; margin-right: 10px;}
+
+.text-center {
+text-align: center;
+}
