@@ -12,7 +12,9 @@ footer {
   background: #00657e;
   color: azure;
 }
-
+.featurette-heading {
+  margin: 0;
+}
 .card{
   height: 280px;
   max-width: 350px;
